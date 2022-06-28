@@ -1,0 +1,24 @@
+{
+  "name": "treinando-automacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaynaracdutra/Treinando-automacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaynaracdutra/Treinando-automacao/issues"
+  },
+  "homepage": "https://github.com/thaynaracdutra/Treinando-automacao#readme",
+  "dependencies": {
+    "cypress": "^10.3.0"
+  }
+}
